@@ -1,0 +1,58 @@
+TRACE START [2020-05-20 10:11:03]
+    0.0009     360400  +360400   -> {main}() /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:0
+    0.0012     360400       +0     -> error_reporting(32767) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:2
+    0.0012     360808              >=> 32767
+    0.0012     360808     +408     -> ini_set('display_errors', 1) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:3
+    0.0013     360872              >=> ''
+    0.0013     360840      +32     -> deep_end($count = 1) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:32
+    0.0013     360840       +0       -> deep_end($count = 2) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0013     360840       +0         -> deep_end($count = 3) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0014     360840       +0           -> deep_end($count = 4) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0014     360840       +0             -> deep_end($count = 5) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0014     360840       +0               -> deep_end($count = 6) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0015     360840       +0                 -> deep_end($count = 7) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0015     360840       +0                   -> deep_end($count = 8) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0016     360840       +0                     -> deep_end($count = 9) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0016     360840       +0                       -> deep_end($count = 10) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0016     360840       +0                         -> deep_end($count = 11) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0016     360840       +0                           -> deep_end($count = 12) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0016     360840       +0                             -> deep_end($count = 13) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0017     360840       +0                               -> deep_end($count = 14) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0017     360840       +0                                 -> deep_end($count = 15) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0017     360840       +0                                   -> deep_end($count = 16) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0017     360840       +0                                     -> deep_end($count = 17) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0017     360840       +0                                       -> deep_end($count = 18) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0017     360840       +0                                         -> deep_end($count = 19) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0017     360840       +0                                           -> deep_end($count = 20) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0018     360840       +0                                             -> deep_end($count = 21) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0018     360840       +0                                               -> deep_end($count = 22) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0018     360840       +0                                                 -> deep_end($count = 23) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0018     360840       +0                                                   -> deep_end($count = 24) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0018     360840       +0                                                     -> deep_end($count = 25) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0018     360840       +0                                                       -> deep_end($count = 26) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0019     360840       +0                                                         -> deep_end($count = 27) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0019     360840       +0                                                           -> deep_end($count = 28) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0019     360840       +0                                                             -> deep_end($count = 29) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0019     360840       +0                                                               -> deep_end($count = 30) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                 -> deep_end($count = 31) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                   -> deep_end($count = 32) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                     -> deep_end($count = 33) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                       -> deep_end($count = 34) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                         -> deep_end($count = 35) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                           -> deep_end($count = 36) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                             -> deep_end($count = 37) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                               -> deep_end($count = 38) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0020     360840       +0                                                                                 -> deep_end($count = 39) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                   -> deep_end($count = 40) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                     -> deep_end($count = 41) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                       -> deep_end($count = 42) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                         -> deep_end($count = 43) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                           -> deep_end($count = 44) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                             -> deep_end($count = 45) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                               -> deep_end($count = 46) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                                 -> deep_end($count = 47) /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:38
+    0.0021     360840       +0                                                                                                   -> trigger_error('going off the deep end!') /Applications/MAMP/htdocs/gb_hl/lesson2/index.php:41
+    0.0137     362768                                                                                                            >=> TRUE
+    0.0141        400
+TRACE END   [2020-05-20 10:11:03]
+
