@@ -1,0 +1,72 @@
+2020-05-21T13:31:17.749639Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) initializing of server in progress as process 3142
+2020-05-21T13:31:20.692671Z 5 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: k+uFmg*_h1ea
+2020-05-21T13:31:23.311968Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 3193
+2020-05-21T13:31:24.554027Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-21T13:31:24.575157Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T13:31:24.788119Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-21T16:39:06.211000Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T16:39:19.176367Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 2748
+2020-05-21T16:39:20.745853Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-21T16:39:20.775626Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T16:39:21.022019Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-21T17:06:51.094375Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 2745
+2020-05-21T17:06:54.624394Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-05-21T17:06:54.643245Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-05-21T17:06:54.861532Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-21T17:06:54.896975Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T17:06:55.072300Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-21T17:24:40.605358Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 2793
+2020-05-21T17:24:42.036839Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-05-21T17:24:42.076707Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-05-21T17:24:43.836130Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-21T17:24:43.871355Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T17:24:44.053229Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-21T17:29:09.213359Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T17:29:22.375585Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 2889
+2020-05-21T17:29:23.514497Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-21T17:29:23.540949Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T17:29:23.789150Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-21T18:06:01.652615Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T18:06:21.006077Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 1329
+2020-05-21T18:06:23.688262Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-21T18:06:23.818244Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-21T18:06:24.084168Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-26T09:11:18.968367Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 1009
+2020-05-26T09:11:21.991956Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-05-26T09:11:22.014815Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-05-26T09:11:22.435261Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T09:11:22.497780Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T09:11:22.574888Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-26T09:25:03.554326Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T09:25:04.326987Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 1277
+2020-05-26T09:25:05.299958Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T09:25:05.323688Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T09:25:05.349677Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-26T10:23:11.842088Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T10:23:12.711311Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 1559
+2020-05-26T10:23:13.604921Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T10:23:13.627199Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T10:23:13.715521Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-26T10:58:41.500119Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T10:58:42.318139Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 8396
+2020-05-26T10:58:43.250102Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T10:58:43.269508Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T10:58:43.330737Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-26T11:05:55.905454Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T11:06:15.855189Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 1014
+2020-05-26T11:06:18.162436Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T11:06:18.238257Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T11:06:18.286565Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-26T11:44:09.792269Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T11:44:10.572857Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 1349
+2020-05-26T11:44:11.533557Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T11:44:11.552607Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T11:44:11.617402Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-26T12:17:23.694728Z 15 [Warning] [MY-010058] [Server] Hostname 'localhost.localdomain' does not resolve to '10.0.2.15'.
+2020-05-26T12:19:36.331463Z 16 [Warning] [MY-010058] [Server] Hostname 'localhost.localdomain' does not resolve to '10.0.2.4'.
+2020-05-26T12:24:38.911397Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T12:24:39.806163Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 1592
+2020-05-26T12:24:40.744746Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T12:24:40.765044Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T12:24:40.832856Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-26T12:26:51.207795Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.19-10)  Percona Server (GPL), Release 10, Revision f446c04.
