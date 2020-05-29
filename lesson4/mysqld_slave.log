@@ -1,0 +1,7 @@
+2020-05-26T19:48:44.352908Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.19-10) starting as process 1253
+2020-05-26T19:48:45.202862Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-26T19:48:45.233006Z 5 [Warning] [MY-010897] [Repl] Storing MySQL user name or password information in the master info repository is not secure and is therefore not recommended. Please consider using the USER and PASSWORD connection options for START SLAVE; see the 'START SLAVE Syntax' in the MySQL Manual for more information.
+2020-05-26T19:48:45.234454Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.19-10'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  Percona Server (GPL), Release 10, Revision f446c04.
+2020-05-26T19:48:45.239849Z 5 [System] [MY-010562] [Repl] Slave I/O thread for channel '': connected to master 'slave_user@10.0.2.4:3306',replication started in log 'mysql-bin.000016' at position 155
+2020-05-26T19:48:45.309417Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/lib/mysql/mysqlx.sock' bind-address: '::' port: 33060
+2020-05-27T06:46:25.556836Z 6 [Warning] [MY-010956] [Server] Invalid replication timestamps: original commit timestamp is more recent than the immediate commit timestamp. This may be an issue if delayed replication is active. Make sure that servers have their clocks set to the correct time. No further message will be emitted until after timestamps become valid again.

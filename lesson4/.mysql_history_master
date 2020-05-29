@@ -1,0 +1,87 @@
+help
+quit
+12345
+quit
+ALTER USER root
+;
+quit
+show databases
+;
+quit
+SELECT user, host FROM mysql.user;
+mysql> select 'host' from user where user='root'
+;
+mysql> select 'host' from mysql.user where user='root';
+use mysql
+ select host from mysql.user where user='root';
+update user set host = '%' where user = 'root'
+;
+flush privileges;
+select host from user where user='root'
+;
+show databases;
+� q!
+;
+quit;
+quit
+show databases;
+quit
+FLUSH PRIVILEGES;
+GRANT REPLICATION SLAVE ON *.* TO 'slave_user'@'%';
+FLUSH PRIVILEGES;
+USE skytech;
+FLUSH TABLES WITH READ LOCK;
+SHOW MASTER STATUS;
+quit
+SHOW MASTER STATUS;
+UNLOCK TABLES;
+quit
+show databases
+;
+use mysql
+show datatables
+;
+show tables;
+select * from user
+;
+select user from user
+;
+show master status;
+use skytech;
+show master status;
+quit
+show master status;
+MASTER STOP;
+quit
+show master status;
+select * from mysql.user where user = slave_user
+;
+select * from mysql.user where user = 'slave_user';
+select * from mysql.user where user = 'slave_user'\G
+quit
+show master status;
+show grants;
+show grants\G
+select user from mysql.user
+;
+show grants;
+GRANT REPLICATION SLAVE ON *.* TO 'slave_user'@'%';
+show grants;
+show grants\G
+GRANT REPLICATION SLAVE ON *.* TO 'slave_user'@'%';
+FLUSH PRIVILEGES;
+show grants\G
+show master status;
+йгше
+quit
+exit
+show tables;
+use skytech;
+show tables;
+select * from b_sale_basket LIMIT 1
+;
+select * from b_sale_basket LIMIT 1\G
+select * from b_sale_basket ORDER BY id DESC LIMIT 1\G
+update b_sale_basket set name='test' where id = '558966';
+update b_sale_basket set name='Кроссовки "Будь в форме", черный, р. 38' where id = '558966';
+exit
